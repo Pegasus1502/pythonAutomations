@@ -28,6 +28,3 @@ Before running the script, make sure you have the following installed:
 
 Please use this script responsibly and only for legitimate purposes. Automated messaging can be against WhatsApp's terms of service, and misuse of this script may violate those terms. Ensure that you have the necessary permissions and consent before using this script to send messages.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
